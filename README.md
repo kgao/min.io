@@ -2,9 +2,9 @@
 A minimal node.js web framework
 
 # Getting started
-  > git clone project
+  > git clone min.io
   
-  > cd project/
+  > cd min.io/
   
   > npm install
   
