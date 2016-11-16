@@ -2,8 +2,8 @@
 A minimal node.js web framework
 
 # Getting started
-  > git clone git@github.com:kgao/min.io.git
-  
+  > git clone https://github.com/kgao/min.io.git
+    
   > cd min.io/
   
   > npm install
