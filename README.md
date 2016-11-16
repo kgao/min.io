@@ -2,7 +2,7 @@
 A minimal node.js web framework
 
 # Getting started
-  > git clone min.io
+  > git clone git@github.com:kgao/min.io.git
   
   > cd min.io/
   
