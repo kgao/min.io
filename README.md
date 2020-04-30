@@ -1,10 +1,10 @@
-# web-dashboard
+# min.io
 A minimal web dasboard powered by min.io and node.js web framework
 
 ## Getting started
-  > git clone https://github.com/covidsafe/web-dashboard.git
+  > git clone https://github.com/covidsafe/min.io.git
     
-  > cd web-dashboard/
+  > cd min.io/
   
   > npm install
   
