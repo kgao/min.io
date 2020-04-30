@@ -1,5 +1,5 @@
 # min.io
-A minimal web dasboard powered by min.io and node.js web framework
+A minimal node.js web framework
 
 ## Getting started
   > git clone https://github.com/covidsafe/min.io.git
