@@ -7,7 +7,7 @@ path = __dirname + '/views/',
 port = process.env.OPENSHIFT_NODEJS_PORT || process.env.PORT || 3000,
 host = process.env.OPENSHIFT_NODEJS_IP;
 
-app.set('views', __dirname + '/views');
+app.set('views', path);
 app.set('view engine', 'ejs');
 
 app.use(express.static('./'));
